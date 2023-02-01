@@ -3,7 +3,7 @@
 
 ## v1.0.0
 
-下载地址：(https://github.com/TeaVAPK/TeaV/releases/tag/v1.0.0)[https://github.com/TeaVAPK/TeaV/releases/tag/v1.0.0]
+下载地址：https://github.com/TeaVAPK/TeaV/releases/tag/v1.0.0
 
 功能：
 * 电影/电视剧/动漫/综艺列表
