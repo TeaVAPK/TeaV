@@ -10,3 +10,5 @@
 * 资源搜索
 * 资源详情
 * 浏览记录和关注列表
+
+<img decoding="async" src="./img/1.png" width="30%" height="30%"> <img decoding="async" src="./img/2.png" width="30%" height="30%"> <img decoding="async" src="./img/3.png" width="30%" height="30%"> <img decoding="async" src="./img/4.png" width="30%" height="30%"> <img decoding="async" src="./img/5.png" width="30%" height="30%">
