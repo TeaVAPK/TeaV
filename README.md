@@ -1,6 +1,12 @@
 # TeaV
 视频资源应用
 
+## v1.1.0
+
+下载地址：https://github.com/TeaVAPK/TeaV/releases/tag/v1.1.0
+
+Fix Bug
+
 ## v1.0.0
 
 下载地址：https://github.com/TeaVAPK/TeaV/releases/tag/v1.0.0
